@@ -79,15 +79,3 @@ Some of the QA scenarios practiced include:
 - Comparing application data with database data
 - Using aggregation queries to validate business calculations
 
-### Example QA Scenario
-
-Suppose an application creates an order:
-
-```text
-Order ID: ORD003
-User: Sayan
-Product: Wireless Mouse
-Quantity: 2
-Price: 799
-Expected Total: 1598
-Status: Pending
